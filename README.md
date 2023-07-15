@@ -1,5 +1,5 @@
 # Email-Application
-A simple Email Application using Java which creates email accounts for new hires
+A simple Email Application using Java which creates email accounts for new hires in a company.
 
 This application does the following task -->
 
